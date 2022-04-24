@@ -1,2 +1,3 @@
 # neural_networks
- A simple Neural Networks library in Rust
+A neural network library written from in Rust.
+
