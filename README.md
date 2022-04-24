@@ -4,7 +4,9 @@ A neural network library written from in Rust.
 MNIST Example:
 
 Step 1: Add neural_networks="0.0.1" in Cargo.toml under dependecies.
+
 Step 2: Download mnist dataset from the dataset folder from the project github. Extract it.
+
 Step 3: Now you can use neural_networks functions as shown in the following mnist example:
 
 ```rust
