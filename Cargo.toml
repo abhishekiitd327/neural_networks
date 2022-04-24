@@ -7,6 +7,9 @@ repository = "https://github.com/abhishekiitd327/neural_network"
 description = "A simple implementation of neural network library"
 license = "MIT"
 readme = "README.md"
+exclude = [
+    "dataset/*",
+]
 
 [dependencies]
 rand = "0.8"
