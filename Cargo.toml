@@ -1,9 +1,9 @@
 [package]
 name = "neural_networks"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Abhishek Kumar <abhishekiitd327@gmail.com>"]
 edition = "2018"
-repository = "https://github.com/abhishekiitd327/neural_network"
+repository = "https://github.com/abhishekiitd327/neural_networks"
 description = "A simple implementation of neural network library"
 license = "MIT"
 readme = "README.md"
